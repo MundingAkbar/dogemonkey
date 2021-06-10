@@ -9,7 +9,7 @@
 </head>
 <body>
     <div class="container">
-        <img id="logo" src="img/d2.png" alt="dogemonkey">
+        <img id="logo" src="img/dogemonkey.png" alt="dogemonkey">
         <h1 id='label'>COMING SOON...</h1>
     </div>
 </body>
