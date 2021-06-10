@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Hammersmith+One&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Hammersmith One', sans-serif;
+}
+
+.container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-image: url('img/background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#logo{
+    width: 500px;
+    height: 500px;
+}
+#label{
+    color: white;
+    letter-spacing: 0.05em;
+}
