@@ -19,7 +19,7 @@
                 <a href=""><i class="fab fa-facebook"></i></a>
                 <a href="https://www.twitter.com/DogeMonkeyD"><i class="fab fa-twitter"></i></a>
                 <a href=""><i class="fab fa-instagram"></i></a>
-                <a href="https://www.youtube.com/channel/UCb-9Q77xsCxmFaGrJEITmrw"><i class="fab fa-youtube"></i></a>
+                <a href="https://www.youtube.com/channel/UCb-9Q77xsCxmFaGrJElTmrw"><i class="fab fa-youtube"></i></a>
                 <a href="https://www.reddit.com/r/DogeMonkey/"><i class="fab fa-reddit-alien"></i></a>
                 <a href="t.me/DogeMonkeyOfficial"><i class="fab fa-telegram-plane"></i></a>
             </div>
