@@ -54,6 +54,10 @@
     transition: 0.3s ease-in-out;
 }
 @media(max-width:500px){
+    #logo{
+        width: 250px;
+        height: 250px;
+    }
     #heading>#title>a{
         font-size: 20px;
     }
