@@ -53,13 +53,14 @@
 
     transition: 0.3s ease-in-out;
 }
-@media(max-width:720px){
+@media(max-width:500px){
     #heading>#title>a{
         font-size: 20px;
     }
+    #heading{
+        flex-direction: column;
+    }
     .social_media{
-        width: 30%;
-        display: flex;
-        justify-content: space-around;
+        width: 80%;
     }
 }
