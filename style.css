@@ -143,4 +143,7 @@ body{
     #content{
         flex-direction: column-reverse;
     }
+    #links>a{
+        font-size: 12px;
+    }
 }
