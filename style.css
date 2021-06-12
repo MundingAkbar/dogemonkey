@@ -53,6 +53,75 @@
 
     transition: 0.3s ease-in-out;
 }
+#content,#description{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#description{
+    padding: 10px;
+    background-color: #2DB4A1;
+    flex-direction: column;
+}
+#description>#title{
+    color: white;
+    padding: 15px;
+}
+#description>#title>span>img{
+    width: 20px;
+    height: 20px;
+    margin: 0px 10px;
+}
+#transactions{
+    width: 100%;
+}
+#feature>.features{
+    color: white;
+    width: 200px;
+    text-align: left;
+    margin: 5px 0px;
+    padding: 5px;
+    border-bottom: 2px solid #01446F;
+    letter-spacing: 0.08rem;
+}
+#address>input{
+    margin-top: 5px;
+    padding: 10px;
+}
+#address>input:focus{
+    border: none;
+    outline: none;
+}
+#btn_buy,#btn_copy{
+    background-color: #2DB4A1;
+    outline: none;
+    border: 2px solid white;
+    border-radius: 10px;
+    color: white;
+    padding: 10px;
+}
+#btn_copy{
+    background-color: #01446F;
+}
+#btn_buy:hover,#btn_copy:hover{
+    cursor: pointer;
+    opacity: 0.8;
+}
+#btn_buy>a{
+    text-decoration: none;
+    color: white;
+}
+#links{
+    padding: 15px;
+}
+#links>a{
+    padding: 15px;
+    color: white;
+    text-decoration: none;
+}
+#link>a:nth-child(1){
+    border-right: 2px solid white;
+}
 @media(max-width:500px){
     #logo{
         width: 250px;
@@ -66,5 +135,8 @@
     }
     .social_media{
         width: 80%;
+    }
+    #content{
+        flex-direction: column-reverse;
     }
 }
