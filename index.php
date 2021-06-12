@@ -44,7 +44,7 @@
                     </div>
                  </div> 
                  <div id="links">
-                        <a href="#">CHARTS</a>
+                        <a href="https://poocoin.app/tokens/0x5ad0b050e42184e69cf6d7c42cee97b3abf383b5">CHART</a>
                         <a href="https://bscscan.com/address/0x5ad0b050e42184e69cf6d7c42cee97b3abf383b5">CHECK CONTRACT ON BSC SCAN</a>
                  </div>
             </div>
