@@ -45,7 +45,7 @@
                  </div> 
                  <div id="links">
                         <a href="#">CHARTS</a>
-                        <a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fbscscan.com%2Faddress%2F0x5ad0b050e42184e69cf6d7c42cee97b3abf383b5%3Ffbclid%3DIwAR14PCC-8uRIPiENN2kig6VmkPfUZM0_1iZEu9B7nLiBLLRWLgex-KA4Elg&h=AT0SIvkhk6G3U1GuMWR46MVY2QfzD7FkWDSMEl8afmQ5Cb1ZBNsr0wbD_2iHuJGloMWsnsiERrc98zVO8hQzuAZAj7rR5WdlEZgqejsxKCpJv1l8snor-JV-cuWlL4Yo_lsODA">CHECK CONTRACT ON BSC SCAN</a>
+                        <a href="https://bscscan.com/address/0x5ad0b050e42184e69cf6d7c42cee97b3abf383b5">CHECK CONTRACT ON BSC SCAN</a>
                  </div>
             </div>
             <img id="logo" src="img/dogemonkey.png" alt="dogemonkey">
