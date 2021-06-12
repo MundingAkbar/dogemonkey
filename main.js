@@ -39,5 +39,4 @@ new TypeIt("#title", {
         strings: '"What is Doge Monkey?"',
         speed: 100,
         loop: true,
-        waitUntilVisible: true
       }).go();
