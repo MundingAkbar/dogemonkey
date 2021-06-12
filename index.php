@@ -74,6 +74,13 @@
 
         var btn_copy = document.getElementById("btn_copy");
         btn_copy.addEventListener("click",myFunction)
+
+        anime({
+            targets: '#btn_buy',
+            scale: 1.05,
+            loop: true,
+            easing: 'easeInOutSine'
+        });
     </script>
 </body>
 </html>
