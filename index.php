@@ -57,7 +57,7 @@
     <div class="container section2">
             <div id="section2-header" data-aos="fade-up">
                 <img src="img/dogemonkey.png" alt="dogemonkey">
-                <h2 class="label" id="section2-title">"What is Doge Monkey?"</h2>
+                <h2 class="label" id="section2-title"></h2>
             </div>
             <div class="section2-content" data-aos="fade-left">
                 <p>$DM is a token on the Binance Smart Chain boasting a number of impressive features.<br>
