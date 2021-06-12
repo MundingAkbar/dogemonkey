@@ -39,7 +39,7 @@
                  <div id="transactions">
                     <button id="btn_buy"><a href="https://exchange.pancakeswap.finance/#/swap?outputCurrency=0xc748673057861a797275cd8a068abb95a902e8de">BUY ON PANCAKE SWAP</a></button>
                     <div id="address">
-                        <input type="text" value="0xBaccFC00B0B9eF74040075CAe95B2D26c50ac00B" id="copy_add">
+                        <input type="text" value="0x5ad0b050e42184e69cf6d7c42cee97b3abf383b5" id="copy_add">
                         <button id='btn_copy'>Copy Address</button>
                     </div>
                  </div> 
