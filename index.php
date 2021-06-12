@@ -93,7 +93,7 @@
                     <h3>Passive Rewards</h3>
                     <p>DogeMonkey investors will receive passive rewards while holding
                     onto their tokens. Holders can watch their balance grow over time
-                    and on every transcation.</p>    
+                    and on every transaction.</p>    
                 </div>
            </div>
     </div>
