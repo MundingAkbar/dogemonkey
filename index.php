@@ -92,7 +92,7 @@
                 <div class="section3-content" data-aos="fade-up">
                     <h3>Passive Rewards</h3>
                     <p>DogeMonkey investors will receive passive rewards while holding
-                    onto their toens. Holders can watch their balance grow over time
+                    onto their tokens. Holders can watch their balance grow over time
                     and on every transcation.</p>    
                 </div>
            </div>
